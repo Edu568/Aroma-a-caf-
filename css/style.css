@@ -1,0 +1,10 @@
+.title-border {
+    display: inline-flex;
+    list-style: none;
+    padding: 0;
+    border : 2px solid black;
+}
+
+.primer-titulo{
+    font-size: 20px;
+}
