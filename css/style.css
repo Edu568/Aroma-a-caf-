@@ -1,10 +1,19 @@
-.title-border {
-    display: inline-flex;
-    list-style: none;
-    padding: 0;
-    border : 2px solid black;
+.navheader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: burlywood;
+    width: auto;
+    margin: auto;
+    padding: 20px;
 }
 
-.primer-titulo{
-    font-size: 20px;
+.option {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    
 }
+
+
